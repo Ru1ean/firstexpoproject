@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59068203982",
+    "project_id": "firstmobileproject-d3c51",
+    "storage_bucket": "firstmobileproject-d3c51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59068203982:android:b4be540743ea0f885ce19f",
+        "android_client_info": {
+          "package_name": "com.asianbaddie.firstmobileproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxRj4x8dPEiD4HTyjYSKCdUMXoXXw56R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
