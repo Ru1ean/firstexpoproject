@@ -5,7 +5,7 @@ export default function AppButton() {
   return (
     <View style={{ marginTop: 50 }}>
       <Button
-        title="Clickss Me"
+        title="this is a button"
         onPress={() => Alert.alert("Button Pressed")}
         color="blue"
       />
