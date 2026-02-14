@@ -1,13 +1,14 @@
 {
   "project_info": {
     "project_number": "59068203982",
+    "firebase_url": "https://firstmobileproject-d3c51-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "firstmobileproject-d3c51",
     "storage_bucket": "firstmobileproject-d3c51.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:59068203982:android:b4be540743ea0f885ce19f",
+        "mobilesdk_app_id": "1:59068203982:android:d65548670ab337f55ce19f",
         "android_client_info": {
           "package_name": "com.asianbaddie.firstmobileproject"
         }

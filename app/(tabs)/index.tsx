@@ -21,8 +21,7 @@ export default function HomeScreen() {
       <ParallaxScrollView
         headerBackgroundColor={{ light: '#ffffff', dark: '#f8b600' }}>
           <ImageBackground source={image} resizeMode="cover" style={styles.image}>
-              <AppButton />
-              <AppPressable />
+              <AppInput/>
           </ImageBackground>
       </ParallaxScrollView>
     </SafeAreaView>
